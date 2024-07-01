@@ -1,2 +1,3 @@
-INSERT INTO tbl_clients(name, email, phone, address, city ) VALUES("Sofia Arroyos", "sofiaarroyos@bit.com", "3215673499", "Calle 123 #12-43", "Argentina")
-INSERT INTO tbl_clients(name, email, phone, address, city ) VALUES("Deissy Johanna Católico Garzón", "coordinacion.proyectos@bit.institute", "3114418656", "cra 13 #54-55 ofi. 420", "Colombia")
+INSERT INTO tbl_clients(name, email, phone, address, city ) VALUES("Sofia Arroyos", "sofiaarroyos@bit.com", "3215673499", "Calle 123 #12-43", "Buenos Aires")
+INSERT INTO tbl_clients(name, email, phone, address, city ) VALUES("Deissy Johanna Católico Garzón", "coordinacion.proyectos@bit.institute", "3114418656", "cra 13 #54-55 ofi. 420", "Bogotá")
+INSERT INTO tbl_clients(name, email, phone, address, city ) VALUES("Diana Marcela Solarte", "dianasolartemm@gmail.com", "3138781794", "cra 123", "Bogotá")
