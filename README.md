@@ -47,7 +47,7 @@ CREATE TABLE tbl_clients (
 INSERT INTO tbl_clients (name, email, phone, address, city) VALUES
 ('Sofia Arroyos', 'sofiaarroyos@bit.com', '3215673499', 'Calle 123 #12-43', 'Argentina'),
 ('Deissy Johanna Católico Garzón', 'coordinacion.proyectos@bit.institute', '3114418656', 'cra 13 #54-55 ofi. 420', 'Colombia'),
-('Diana Solarte', 'dianasolartem@gmail.com', '3228107733', 'calle 123', 'Bogotá');
+('Diana Solarte', 'dianasolartem@gmail.com', '312345656', 'calle 123', 'Bogotá');
 
 # Configuración del Proyecto CRUD con Spring Boot
 Este proyecto utiliza Maven para gestionar las dependencias y construir el proyecto.
